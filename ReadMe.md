@@ -1,16 +1,20 @@
-![GTPB](http://gtpb.igc.gulbenkian.pt/bicourses/images/GTPB2015logo.png "GTPB")
+## ARANGS15 - Automated and reproducible analysis of NGS data
 
-# ARANGS 2015
+###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - May 11<sup>th</sup> - May 15<sup>th</sup> 2015
 
-This is the git repository for the course
-*Automated and Reproducible Analysis of Next Generation Sequencing*
-([ARANGS 2015](http://gtpb.igc.gulbenkian.pt/bicourses/ARANGS15),
-[timetable](http://gtpb.igc.gulbenkian.pt/bicourses/ARANGS15/timetable.html)).
+---
 
-This repository contains source code, data, configuration files, documentation and
-reference materials.
+#### Co-Authorship
 
-## Reference materials
+The following co-authors contributed to the development of the training material.
+
+* [Rutger Vos](https://github.com/rvosa)
+* [Darin London](https://github.com/dmlond)
+
+#### Course Webpage
+This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2015/ARANGS15/), for further information about the course.
+
+### Reference materials
 
 * DNA Sequencing Technologies
 http://www.nature.com/scitable/topicpage/DNA-Sequencing-Technologies-690
@@ -40,26 +44,30 @@ https://docs.google.com/document/pub?id=1rYbBPELjjezRVjkQfkulJI2jNxL5LsRuNXVv_Cx
 http://tldp.org/LDP/abs/html/
 http://www.ee.surrey.ac.uk/Teaching/Unix/
 
-## Syntax Format Descriptions
+### Syntax Format Descriptions
 
 * SAM/BAM http://samtools.sourceforge.net/SAM1.pdf
 * VCF Format http://www.1000genomes.org/wiki/Analysis/Variant%20Call%20Format/vcf-variant-call-format-version-40
 * FASTQ http://maq.sourceforge.net/fastq.shtml
 * Sequence file formats http://bioinf.comav.upv.es/courses/sequence_analysis/sequence_file_formats.html
 
-## Executables
+### Executables
 
 * samtools http://samtools.sourceforge.net/
 * bwa http://bio-bwa.sourceforge.net/
 * fastqc http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
-## Docker, docker-machine, docker-compose
+### Docker, docker-machine, docker-compose
 
 * docker https://www.docker.com/
 * docker-machine https://docs.docker.com/machine/
 * docker-compose https://docs.docker.com/compose/
 
-## Vagrant, virtualbox
+### Vagrant, virtualbox
 
 - vagrant http://vagrantup.com
 - virtualbox http://virtualbox.org
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ELB18F</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
